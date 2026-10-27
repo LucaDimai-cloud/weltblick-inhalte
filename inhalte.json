@@ -1,0 +1,610 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-27T15:04:00Z",
+  "startseite": {
+    "briefing": {
+      "id": "briefing-beispiel-kw44",
+      "isSample": true,
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Skyline_Frankfurt_am_Main_2019.jpg/1920px-Skyline_Frankfurt_am_Main_2019.jpg",
+        "alt": "Symbolfoto: Hochhäuser des Frankfurter Bankenviertels",
+        "credit": "Symbolfoto: Marco Almbauer · CC0"
+      },
+      "weekLabel": "KW 44 · 2026",
+      "title": "Zinsen, Zölle und Chips: was diese Woche zählt",
+      "intro": "Fünf Entwicklungen, die zusammenhängen – kurz erklärt und eingeordnet, damit du in wenigen Minuten den Überblick hast.",
+      "topicCount": 5,
+      "readingMinutes": 7
+    },
+    "topics": [
+      {
+        "id": "thema-wirtschaft",
+        "isSample": true,
+        "articleId": "zinspause",
+        "topic": "wirtschaft",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Aerial_photograph_of_the_Port_of_Miami_Container_Port.jpg/1280px-Aerial_photograph_of_the_Port_of_Miami_Container_Port.jpg",
+          "alt": "Symbolfoto: Containerhafen mit Frachtschiff aus der Luft",
+          "credit": "Symbolfoto: J. R. Tourtellotte (CBP) · gemeinfrei"
+        },
+        "title": "Warum eine Zinspause Sparer und Kreditnehmer unterschiedlich trifft",
+        "summary": "Beispiel: Eine Zentralbank hält den Leitzins stabil. Was das für Alltag und Märkte bedeutet."
+      },
+      {
+        "id": "thema-deutsche-politik",
+        "isSample": true,
+        "articleId": "haushalt",
+        "topic": "deutsche-politik",
+        "title": "Vom Entwurf zum Gesetz: wie der Bundeshaushalt entsteht",
+        "summary": "Beispiel: Ein Haushaltsentwurf geht in die Beratung. Wer entscheidet was – und wann?"
+      },
+      {
+        "id": "thema-geopolitik",
+        "isSample": true,
+        "articleId": "handelsrouten",
+        "topic": "geopolitik",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Brussels-Berlaymont_building_%281%29.jpg/1280px-Brussels-Berlaymont_building_%281%29.jpg",
+          "alt": "Symbolfoto: Berlaymont-Gebäude der Europäischen Kommission in Brüssel",
+          "credit": "Symbolfoto: Romaine · CC0"
+        },
+        "title": "Handelsrouten unter Druck: wer profitiert, wer verliert",
+        "summary": "Beispiel: Spannungen an einer wichtigen Meerenge verteuern den Transport von Waren."
+      },
+      {
+        "id": "thema-boerse",
+        "isSample": true,
+        "articleId": "zinserwartung",
+        "topic": "boerse",
+        "title": "Warum Aktienkurse auf Zinserwartungen reagieren",
+        "summary": "Beispiel: Märkte bewegen sich oft schon, bevor eine Zentralbank überhaupt entscheidet."
+      },
+      {
+        "id": "thema-technologie",
+        "isSample": true,
+        "articleId": "chips-europa",
+        "topic": "technologie",
+        "image": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/5C2A5953R_-_49913961083_%E2%80%93_Silicon_Wafer_20200519.jpg/1280px-5C2A5953R_-_49913961083_%E2%80%93_Silicon_Wafer_20200519.jpg",
+          "alt": "Symbolfoto: Nahaufnahme eines Siliziumwafers mit Mikrochips",
+          "credit": "Symbolfoto: Rob Bulmahn · CC BY 2.0"
+        },
+        "title": "Der Wettlauf um Chips – und was Europa dabei will",
+        "summary": "Beispiel: Ein neues Förderprogramm soll Halbleiterfabriken in die Region holen."
+      }
+    ],
+    "highlights": [
+      {
+        "id": "wichtig-1",
+        "isSample": true,
+        "articleId": "inflation",
+        "topic": "wirtschaft",
+        "title": "Beispiel: Inflation sinkt leicht – Entwarnung ist es noch nicht",
+        "readingMinutes": 3
+      },
+      {
+        "id": "wichtig-2",
+        "isSample": true,
+        "articleId": "gipfeltreffen",
+        "topic": "geopolitik",
+        "title": "Beispiel: Gipfeltreffen endet ohne gemeinsame Erklärung",
+        "readingMinutes": 4
+      },
+      {
+        "id": "wichtig-3",
+        "isSample": true,
+        "articleId": "ki-regeln",
+        "topic": "technologie",
+        "title": "Beispiel: Neue Regeln für KI-Anwendungen treten schrittweise in Kraft",
+        "readingMinutes": 3
+      }
+    ]
+  },
+  "articles": [
+    {
+      "id": "zinspause",
+      "isSample": true,
+      "topic": "wirtschaft",
+      "title": "Warum eine Zinspause Sparer und Kreditnehmer unterschiedlich trifft",
+      "lead": "In diesem Beispiel lässt eine Zentralbank den Leitzins unverändert. Was nach Stillstand klingt, wirkt sich auf Sparkonten, Kredite und Preise ganz unterschiedlich aus.",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Aerial_photograph_of_the_Port_of_Miami_Container_Port.jpg/1280px-Aerial_photograph_of_the_Port_of_Miami_Container_Port.jpg",
+        "alt": "Symbolfoto: Containerhafen mit Frachtschiff aus der Luft",
+        "credit": "Symbolfoto: J. R. Tourtellotte (CBP) · gemeinfrei"
+      },
+      "publishedAt": "2026-10-26",
+      "readingMinutes": 5,
+      "sections": {
+        "whatHappened": [
+          {
+            "claimType": "fakt",
+            "text": "Der Leitzins ist der Zins, zu dem sich Banken bei der Zentralbank Geld leihen können. Steigt er, wird Geld insgesamt teurer – Banken geben das meist an ihre Kundinnen und Kunden weiter."
+          },
+          {
+            "claimType": "fakt",
+            "text": "Im Beispiel belässt die Zentralbank den Leitzins auf seinem bisherigen Stand. Sie will abwarten, ob frühere Zinserhöhungen genug bewirkt haben, um die Inflation zu bremsen."
+          }
+        ],
+        "whyItMatters": [
+          {
+            "claimType": "fakt",
+            "text": "Zinsentscheidungen bestimmen mit, wie teuer Kredite für Haushalte und Unternehmen sind."
+          },
+          {
+            "claimType": "fakt",
+            "text": "Sie beeinflussen, ob sich Sparen lohnt oder ob Geld schneller ausgegeben wird."
+          },
+          {
+            "claimType": "einschaetzung",
+            "attribution": "Weltblick-Redaktion (Beispiel)",
+            "text": "Wer jetzt einen Kredit aufnehmen will, muss vorerst weiter mit vergleichsweise hohen Kosten rechnen."
+          }
+        ],
+        "connections": {
+          "blocks": [
+            {
+              "claimType": "fakt",
+              "text": "Zinsen und Preise hängen eng zusammen: Wie stark die Inflation zurückgeht, entscheidet mit darüber, wann die Zinsen wieder sinken."
+            }
+          ],
+          "relatedArticleIds": [
+            "inflation",
+            "zinserwartung"
+          ]
+        },
+        "outlook": [
+          {
+            "claimType": "prognose",
+            "attribution": "Weltblick-Redaktion (Beispiel)",
+            "text": "Entscheidend dürften die nächsten Inflationsdaten werden. Sinkt die Teuerung weiter, wächst der Spielraum für eine Zinssenkung."
+          }
+        ]
+      },
+      "terms": [
+        {
+          "term": "Leitzins",
+          "explanation": "Der Zinssatz, den eine Zentralbank festlegt. Er beeinflusst, wie teuer Kredite und wie lohnend Ersparnisse sind."
+        },
+        {
+          "term": "Inflation",
+          "explanation": "Der allgemeine Anstieg der Preise. Mit demselben Geld kann man sich dann weniger kaufen."
+        },
+        {
+          "term": "Zentralbank",
+          "explanation": "Die Bank der Banken. Sie sorgt für stabile Preise und steuert dafür unter anderem den Leitzins."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "haushalt",
+      "isSample": true,
+      "topic": "deutsche-politik",
+      "title": "Vom Entwurf zum Gesetz: wie der Bundeshaushalt entsteht",
+      "lead": "In diesem Beispiel legt die Bundesregierung einen Haushaltsentwurf vor. Bis daraus ein beschlossener Haushalt wird, vergehen Monate – und das Parlament hat das letzte Wort.",
+      "publishedAt": "2026-10-26",
+      "readingMinutes": 5,
+      "sections": {
+        "whatHappened": [
+          {
+            "claimType": "fakt",
+            "text": "Der Bundeshaushalt legt fest, wie viel Geld der Bund in einem Jahr einnehmen und ausgeben darf. Die Bundesregierung beschließt dafür einen Entwurf und leitet ihn dem Parlament zu."
+          },
+          {
+            "claimType": "fakt",
+            "text": "Der Bundestag berät den Entwurf in mehreren Lesungen. Die Details verhandelt vor allem der Haushaltsausschuss – dort werden einzelne Posten oft noch deutlich verändert."
+          }
+        ],
+        "whyItMatters": [
+          {
+            "claimType": "fakt",
+            "text": "Im Haushalt entscheidet sich, wofür der Staat Geld ausgibt – etwa für Bildung, Verteidigung oder Straßen."
+          },
+          {
+            "claimType": "fakt",
+            "text": "Das Budgetrecht gilt als eines der wichtigsten Rechte des Parlaments."
+          },
+          {
+            "claimType": "einschaetzung",
+            "attribution": "Weltblick-Redaktion (Beispiel)",
+            "text": "Streit um den Haushalt zeigt oft früh, wo die Prioritäten der Regierungsparteien auseinanderliegen."
+          }
+        ],
+        "connections": {
+          "blocks": [
+            {
+              "claimType": "fakt",
+              "text": "Wie viel Spielraum der Haushalt hat, hängt auch von der Wirtschaftslage ab: Läuft die Konjunktur schwächer, sinken in der Regel die Steuereinnahmen."
+            }
+          ],
+          "relatedArticleIds": [
+            "zinspause",
+            "inflation"
+          ]
+        },
+        "outlook": [
+          {
+            "claimType": "prognose",
+            "attribution": "Weltblick-Redaktion (Beispiel)",
+            "text": "Spannend wird im Beispiel, welche Posten der Haushaltsausschuss noch verändert, bevor der Bundestag abschließend abstimmt."
+          }
+        ]
+      },
+      "terms": [
+        {
+          "term": "Haushaltsausschuss",
+          "explanation": "Ein Ausschuss des Bundestags, der den Haushaltsentwurf im Detail berät und Änderungen vorschlägt."
+        },
+        {
+          "term": "Lesung",
+          "explanation": "Eine Beratung eines Gesetzentwurfs im Plenum des Bundestags. Ein Gesetz wird in der Regel in drei Lesungen beraten."
+        },
+        {
+          "term": "Schuldenbremse",
+          "explanation": "Eine Regel im Grundgesetz, die begrenzt, wie viele neue Schulden Bund und Länder aufnehmen dürfen."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "handelsrouten",
+      "isSample": true,
+      "topic": "geopolitik",
+      "title": "Handelsrouten unter Druck: wer profitiert, wer verliert",
+      "lead": "In diesem Beispiel führen Spannungen an einer wichtigen Meerenge dazu, dass Schiffe Umwege fahren. Das kostet Zeit und Geld – und kann am Ende auch Waren im Laden teurer machen.",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Brussels-Berlaymont_building_%281%29.jpg/1280px-Brussels-Berlaymont_building_%281%29.jpg",
+        "alt": "Symbolfoto: Berlaymont-Gebäude der Europäischen Kommission in Brüssel",
+        "credit": "Symbolfoto: Romaine · CC0"
+      },
+      "publishedAt": "2026-10-27",
+      "readingMinutes": 6,
+      "sections": {
+        "whatHappened": [
+          {
+            "claimType": "fakt",
+            "text": "Ein großer Teil des Welthandels wird mit Containerschiffen abgewickelt. Viele Routen führen durch wenige schmale Meerengen."
+          },
+          {
+            "claimType": "fakt",
+            "text": "Im Beispiel wird eine dieser Meerengen unsicher. Reedereien weichen aus – mit längeren Fahrten, mehr Treibstoff und höheren Versicherungskosten."
+          }
+        ],
+        "whyItMatters": [
+          {
+            "claimType": "fakt",
+            "text": "Störungen auf wichtigen Seewegen können Preise für viele Alltagsprodukte beeinflussen."
+          },
+          {
+            "claimType": "fakt",
+            "text": "Sie zeigen, wie stark Länder wirtschaftlich voneinander abhängen."
+          },
+          {
+            "claimType": "behauptung",
+            "attribution": "laut Branchenvertretern (Beispiel)",
+            "text": "Einige Unternehmen könnten Lieferungen nur noch mit Verzögerung garantieren."
+          }
+        ],
+        "connections": {
+          "blocks": [
+            {
+              "claimType": "fakt",
+              "text": "Höhere Transportkosten können die Inflation antreiben – und damit auch Entscheidungen der Zentralbanken beeinflussen."
+            }
+          ],
+          "relatedArticleIds": [
+            "inflation",
+            "gipfeltreffen"
+          ]
+        },
+        "outlook": [
+          {
+            "claimType": "prognose",
+            "attribution": "Weltblick-Redaktion (Beispiel)",
+            "text": "Bleibt die Lage angespannt, dürften Unternehmen ihre Lieferketten stärker auf mehrere Routen und Lieferanten verteilen."
+          }
+        ]
+      },
+      "terms": [
+        {
+          "term": "Meerenge",
+          "explanation": "Eine schmale Wasserstraße zwischen zwei Landmassen, durch die viele Schiffe fahren müssen."
+        },
+        {
+          "term": "Lieferkette",
+          "explanation": "Der Weg eines Produkts vom Rohstoff über die Herstellung bis zu den Kundinnen und Kunden."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "zinserwartung",
+      "isSample": true,
+      "topic": "boerse",
+      "title": "Warum Aktienkurse auf Zinserwartungen reagieren",
+      "lead": "In diesem Beispiel bewegen sich die Kurse an der Börse, obwohl die Zentralbank noch gar nichts entschieden hat. Der Grund: Märkte handeln mit Erwartungen an die Zukunft.",
+      "publishedAt": "2026-10-28",
+      "readingMinutes": 4,
+      "sections": {
+        "whatHappened": [
+          {
+            "claimType": "fakt",
+            "text": "Der Preis einer Aktie spiegelt wider, was Anlegerinnen und Anleger von einem Unternehmen in Zukunft erwarten. Neue Informationen verändern diese Erwartungen – und damit den Kurs."
+          },
+          {
+            "claimType": "fakt",
+            "text": "Zinsen spielen dabei eine wichtige Rolle: Steigen sie, werden sichere Anlagen wie Anleihen attraktiver und Kredite für Unternehmen teurer."
+          }
+        ],
+        "whyItMatters": [
+          {
+            "claimType": "fakt",
+            "text": "Viele Altersvorsorge- und Sparprodukte hängen direkt oder indirekt von der Entwicklung an den Börsen ab."
+          },
+          {
+            "claimType": "einschaetzung",
+            "attribution": "Weltblick-Redaktion (Beispiel)",
+            "text": "Kursbewegungen vor einer Zinsentscheidung sagen mehr über Erwartungen aus als über die Lage eines einzelnen Unternehmens."
+          }
+        ],
+        "connections": {
+          "blocks": [
+            {
+              "claimType": "fakt",
+              "text": "Ob eine Zentralbank die Zinsen senkt, hängt stark von der Inflation ab – deshalb reagieren Märkte auch auf neue Preisdaten."
+            }
+          ],
+          "relatedArticleIds": [
+            "zinspause",
+            "inflation"
+          ]
+        },
+        "outlook": [
+          {
+            "claimType": "prognose",
+            "attribution": "Weltblick-Redaktion (Beispiel)",
+            "text": "Im Beispiel dürfte die nächste Zinsentscheidung für deutliche Kursbewegungen sorgen – besonders, wenn sie anders ausfällt als erwartet."
+          }
+        ]
+      },
+      "terms": [
+        {
+          "term": "Aktie",
+          "explanation": "Ein Anteil an einem Unternehmen. Wer eine Aktie besitzt, ist Miteigentümer."
+        },
+        {
+          "term": "Anleihe",
+          "explanation": "Ein Wertpapier, mit dem sich Staaten oder Unternehmen Geld leihen und dafür Zinsen zahlen."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "chips-europa",
+      "isSample": true,
+      "topic": "technologie",
+      "title": "Der Wettlauf um Chips – und was Europa dabei will",
+      "lead": "In diesem Beispiel will ein Förderprogramm neue Halbleiterfabriken nach Europa holen. Dahinter steht die Frage, wie abhängig eine Region von Chips aus anderen Teilen der Welt sein möchte.",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/5C2A5953R_-_49913961083_%E2%80%93_Silicon_Wafer_20200519.jpg/1280px-5C2A5953R_-_49913961083_%E2%80%93_Silicon_Wafer_20200519.jpg",
+        "alt": "Symbolfoto: Nahaufnahme eines Siliziumwafers mit Mikrochips",
+        "credit": "Symbolfoto: Rob Bulmahn · CC BY 2.0"
+      },
+      "publishedAt": "2026-10-28",
+      "readingMinutes": 5,
+      "sections": {
+        "whatHappened": [
+          {
+            "claimType": "fakt",
+            "text": "Mikrochips stecken in fast allem: in Smartphones, Autos, Waschmaschinen und Rechenzentren. Die modernsten Chips werden nur an wenigen Orten der Welt gefertigt."
+          },
+          {
+            "claimType": "fakt",
+            "text": "Eine Chipfabrik zu bauen, kostet sehr viel Geld und dauert Jahre. Im Beispiel versucht ein Förderprogramm, Hersteller anzulocken."
+          }
+        ],
+        "whyItMatters": [
+          {
+            "claimType": "fakt",
+            "text": "Ohne Chips stehen ganze Industrien still, wie Lieferengpässe in der Vergangenheit gezeigt haben."
+          },
+          {
+            "claimType": "behauptung",
+            "attribution": "laut Befürwortern des Programms (Beispiel)",
+            "text": "Eigene Fabriken machen die Region bei Lieferengpässen widerstandsfähiger."
+          },
+          {
+            "claimType": "behauptung",
+            "attribution": "laut Kritikern (Beispiel)",
+            "text": "Das Geld wäre an anderer Stelle, etwa in Forschung, besser eingesetzt."
+          }
+        ],
+        "connections": {
+          "blocks": [
+            {
+              "claimType": "fakt",
+              "text": "Chips sind auch die Grundlage für KI-Anwendungen, für die gerade neue Regeln entstehen."
+            }
+          ],
+          "relatedArticleIds": [
+            "ki-regeln",
+            "handelsrouten"
+          ]
+        },
+        "outlook": [
+          {
+            "claimType": "prognose",
+            "attribution": "Weltblick-Redaktion (Beispiel)",
+            "text": "Ob das Programm wirkt, wird sich erst in einigen Jahren zeigen, wenn die ersten Fabriken tatsächlich produzieren."
+          }
+        ]
+      },
+      "terms": [
+        {
+          "term": "Halbleiter",
+          "explanation": "Ein Material wie Silizium, das Strom nur unter bestimmten Bedingungen leitet. Daraus werden Mikrochips gefertigt."
+        },
+        {
+          "term": "Wafer",
+          "explanation": "Eine dünne, runde Scheibe aus Silizium, auf der viele Chips gleichzeitig hergestellt werden."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "inflation",
+      "isSample": true,
+      "topic": "wirtschaft",
+      "title": "Beispiel: Inflation sinkt leicht – Entwarnung ist es noch nicht",
+      "lead": "In diesem Beispiel steigen die Preise etwas langsamer als zuvor. Das ist eine gute Nachricht – aber noch kein Grund zur Entwarnung.",
+      "publishedAt": "2026-10-29",
+      "readingMinutes": 3,
+      "sections": {
+        "whatHappened": [
+          {
+            "claimType": "fakt",
+            "text": "Wenn die Inflation sinkt, heißt das nicht, dass Dinge billiger werden. Es bedeutet nur, dass die Preise langsamer steigen als vorher."
+          }
+        ],
+        "whyItMatters": [
+          {
+            "claimType": "fakt",
+            "text": "Die Inflation bestimmt, wie viel das eigene Geld wert ist."
+          },
+          {
+            "claimType": "fakt",
+            "text": "Sie ist eine wichtige Grundlage für Zinsentscheidungen der Zentralbanken."
+          }
+        ],
+        "connections": {
+          "blocks": [
+            {
+              "claimType": "fakt",
+              "text": "Ob die Zentralbank ihre Zinspause beendet, hängt stark davon ab, wie sich die Inflation weiter entwickelt."
+            }
+          ],
+          "relatedArticleIds": [
+            "zinspause"
+          ]
+        },
+        "outlook": [
+          {
+            "claimType": "prognose",
+            "attribution": "Weltblick-Redaktion (Beispiel)",
+            "text": "Wie es weitergeht, dürfte vor allem von Energiepreisen, Löhnen und Transportkosten abhängen."
+          }
+        ]
+      },
+      "terms": [
+        {
+          "term": "Inflationsrate",
+          "explanation": "Sie gibt an, um wie viel Prozent die Preise im Vergleich zum Vorjahr gestiegen sind."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "gipfeltreffen",
+      "isSample": true,
+      "topic": "geopolitik",
+      "title": "Beispiel: Gipfeltreffen endet ohne gemeinsame Erklärung",
+      "lead": "In diesem Beispiel treffen sich Regierungen mehrerer Länder, können sich am Ende aber nicht auf einen gemeinsamen Text einigen.",
+      "publishedAt": "2026-10-30",
+      "readingMinutes": 4,
+      "sections": {
+        "whatHappened": [
+          {
+            "claimType": "fakt",
+            "text": "Bei internationalen Gipfeln wird oft eine Abschlusserklärung veröffentlicht. Sie hält fest, worauf sich die Teilnehmer geeinigt haben. Im Beispiel kommt sie nicht zustande."
+          }
+        ],
+        "whyItMatters": [
+          {
+            "claimType": "fakt",
+            "text": "Ohne Einigung bleiben gemeinsame Antworten auf grenzüberschreitende Probleme aus."
+          },
+          {
+            "claimType": "einschaetzung",
+            "attribution": "Weltblick-Redaktion (Beispiel)",
+            "text": "Die Gespräche können trotzdem nützlich gewesen sein – etwa, um Missverständnisse auszuräumen."
+          }
+        ],
+        "connections": {
+          "blocks": [
+            {
+              "claimType": "fakt",
+              "text": "Fehlende Einigungen können Handelsfragen offenlassen – mit Folgen für Lieferketten."
+            }
+          ],
+          "relatedArticleIds": [
+            "handelsrouten"
+          ]
+        }
+      },
+      "terms": [
+        {
+          "term": "Abschlusserklärung",
+          "explanation": "Ein gemeinsamer Text am Ende eines Treffens, der die Ergebnisse und Absichten der Teilnehmer festhält."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "ki-regeln",
+      "isSample": true,
+      "topic": "technologie",
+      "title": "Beispiel: Neue Regeln für KI-Anwendungen treten schrittweise in Kraft",
+      "lead": "In diesem Beispiel gelten für Anwendungen mit künstlicher Intelligenz nach und nach neue Regeln. Je riskanter eine Anwendung, desto strenger die Vorgaben.",
+      "publishedAt": "2026-10-30",
+      "readingMinutes": 3,
+      "sections": {
+        "whatHappened": [
+          {
+            "claimType": "fakt",
+            "text": "Viele Regeln für künstliche Intelligenz folgen einem einfachen Gedanken: Nicht jede Anwendung ist gleich riskant. Ein Filter für Spam-Mails ist harmloser als ein System, das über Kredite entscheidet."
+          }
+        ],
+        "whyItMatters": [
+          {
+            "claimType": "fakt",
+            "text": "KI-Anwendungen begegnen vielen Menschen bereits im Alltag."
+          },
+          {
+            "claimType": "einschaetzung",
+            "attribution": "Weltblick-Redaktion (Beispiel)",
+            "text": "Klare Regeln können Vertrauen schaffen – wenn sie neue Entwicklungen nicht unnötig ausbremsen."
+          }
+        ],
+        "connections": {
+          "blocks": [
+            {
+              "claimType": "fakt",
+              "text": "Leistungsfähige KI braucht moderne Chips – deshalb hängen beide Themen eng zusammen."
+            }
+          ],
+          "relatedArticleIds": [
+            "chips-europa"
+          ]
+        },
+        "outlook": [
+          {
+            "claimType": "prognose",
+            "attribution": "Weltblick-Redaktion (Beispiel)",
+            "text": "Werden die Regeln schrittweise eingeführt, dürften Unternehmen ihre Anwendungen nach und nach anpassen."
+          }
+        ]
+      },
+      "terms": [
+        {
+          "term": "Künstliche Intelligenz (KI)",
+          "explanation": "Computersysteme, die Aufgaben lösen, für die sonst menschliches Denken nötig wäre – etwa Texte verstehen oder Bilder erkennen."
+        },
+        {
+          "term": "Risikobasierter Ansatz",
+          "explanation": "Regeln werden danach ausgerichtet, wie groß der mögliche Schaden einer Anwendung ist."
+        }
+      ],
+      "sources": []
+    }
+  ]
+}
