@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T15:04:00Z",
+  "generatedAt": "2026-10-28T15:00:00Z",
   "startseite": {
     "briefing": {
       "id": "briefing-beispiel-kw44",
@@ -27,7 +27,7 @@
           "alt": "Symbolfoto: Containerhafen mit Frachtschiff aus der Luft",
           "credit": "Symbolfoto: J. R. Tourtellotte (CBP) · gemeinfrei"
         },
-        "title": "Warum eine Zinspause Sparer und Kreditnehmer unterschiedlich trifft",
+        "title": "TEST – GitHub-Aktualisierung: Warum eine Zinspause Sparer und Kreditnehmer unterschiedlich trifft",
         "summary": "Beispiel: Eine Zentralbank hält den Leitzins stabil. Was das für Alltag und Märkte bedeutet."
       },
       {
@@ -105,7 +105,7 @@
       "id": "zinspause",
       "isSample": true,
       "topic": "wirtschaft",
-      "title": "Warum eine Zinspause Sparer und Kreditnehmer unterschiedlich trifft",
+      "title": "TEST – GitHub-Aktualisierung: Warum eine Zinspause Sparer und Kreditnehmer unterschiedlich trifft",
       "lead": "In diesem Beispiel lässt eine Zentralbank den Leitzins unverändert. Was nach Stillstand klingt, wirkt sich auf Sparkonten, Kredite und Preise ganz unterschiedlich aus.",
       "image": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Aerial_photograph_of_the_Port_of_Miami_Container_Port.jpg/1280px-Aerial_photograph_of_the_Port_of_Miami_Container_Port.jpg",
